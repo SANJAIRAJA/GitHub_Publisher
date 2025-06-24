@@ -22,3 +22,10 @@ Creating Library
               }
         }
     > Push
+
+
+Push code to git
+1. Add project to git
+2. Must add "jitpack.yml" -> used to publish the code via jit.
+3. In Github repository -> Create new release ->  add version and content and publish
+4. Open jitpack.io in tab

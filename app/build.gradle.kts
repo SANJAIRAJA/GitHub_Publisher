@@ -50,7 +50,8 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
 
-    implementation(project(":sample-demo"))
+//    implementation(project(":sample-demo"))
 
+    implementation("com.github.SANJAIRAJA:GitHub_Publisher:1.0.0")
     
 }
